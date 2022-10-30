@@ -1,13 +1,13 @@
 ## Jonas Diete
 
-Experienced teacher retraining to become a software developer. 8 Years of fostering an excitement for learning in children - the challenge of getting better at something is so beautiful. Building software is truly "creative" - it's amazing to make something new that really works and that people can use.
+Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - the challenge of getting better at something is so beautiful.
 
-## Projects
+## My Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Acebook**                  | A team project developing a social media platform. | Node.js, Express.js, Jest, Cypress |
-| **Times Table Coach**        | A webapp to teach children multiplication tables. | Python, Flask, Javascript |
+| [**Acebook**](https://acebook-monsters-inc.herokuapp.com/)                  | A team project developing a social media platform. | Node.js, Express.js, Jest, Cypress |
+| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | A webapp to teach children multiplication tables. | Python, Flask, Javascript |
 | **Chitter**                  | A webapp that allows users to post on a wall | Ruby, Sinatra, RSpec |
 
 ## Work Experience
