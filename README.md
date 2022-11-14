@@ -91,7 +91,10 @@ I am a brilliant team player due to my empathy and patience.
 #### Harvard University Online (2021)
 - CS50 – Introduction to Computer Science, 10 weeks online course including a final project (Times Table Coach)
 - Learning essential programming principles about memory, data structures and computing speed, completing a number of projects with C, Python, SQL, HTML, CSS and JavaScript.
-- Codecademy courses completed: Learning Python 3, Learning Ruby
+
+#### Codecademy (2021-2022)
+- Course: Learning Python 3 (30 hours)
+- Course: Learning Ruby (20 hours)
 
 #### University of East Anglia (2011-2012)
 - Post Graduate Certificate in Education (PGCE) with Qualified Teaching Standard (QTS). Specialism in teaching modern foreign languages.
