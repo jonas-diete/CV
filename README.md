@@ -6,7 +6,6 @@ Software Developer with background in teaching. I love building software - it's 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-|
 | [**Wakify**](https://github.com/jonas-diete/wakify)                  | Team project – developing a mobile app that matches your mood to a playlist. | React Native, Node.js, Cypress |
 | [**Times Table Coach**](https://ttcoach.herokuapp.com)        | Solo project - a webapp to teach children multiplication tables. | Python, Flask, Javascript |
 | [**Acebook**](https://acebook-monsters-inc.herokuapp.com/)                  | Team project developing a social media platform. | Node.js, Express.js, MongoDB, Jest, Cypress |
