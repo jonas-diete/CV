@@ -42,7 +42,7 @@ _Supply Teacher_
 - Daily supply teacher in different schools across South London.
 - Quickly adapting to new environments, picking up essential information and connecting with new colleagues.
 
-**Mulbarton Junior School** (September 2012 - August 2013)
+**Mulbarton Junior School** (September 2012 - August 2013)  
 _ClassTeacher Year 4_
 - Managing and teaching a class of 30 children full time.
 - Completing my induction year.
