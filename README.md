@@ -6,17 +6,18 @@ Software Developer with background in teaching. I love building software - it's 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Acebook**](https://acebook-monsters-inc.herokuapp.com/)                  | A team project developing a social media platform. | Node.js, Express.js, Jest, Cypress |
-| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | A webapp to teach children multiplication tables. | Python, Flask, Javascript |
-| **Chitter**                  | A webapp that allows users to post on a wall | Ruby, Sinatra, RSpec |
+|
+| [**Wakify**](https://github.com/jonas-diete/wakify)                  | Team project – developing a mobile app that matches your mood to a playlist. | React Native, Node.js, Cypress |
+| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | Solo project - a webapp to teach children multiplication tables. | Python, Flask, Javascript |
+| [**Acebook**](https://acebook-monsters-inc.herokuapp.com/)                  | Team project developing a social media platform. | Node.js, Express.js, MongoDB, Jest, Cypress |
 
 ## Work Experience
 
-**Online German Tutor** (September 2020 - August 2022)  
-_Self Employed Tutor_
+**Online German Tutor** (September 2020 - July 2022)  
+_German Tutor and Programming_
 
 - Teaching German online to students from around the world, 20-25 hours a week
-- I successfully prepared students for GCSEs and A2-B2 exams.
+- Successfully prepared students for GCSEs and A2-B2 exams.
 - Lots of 5-star reviews on [preply.com](https://preply.com/en/tutor/686392)
 - Attending online coding courses (see “Education”).
 - Working on programming projects and websites part-time.
@@ -24,31 +25,28 @@ _Self Employed Tutor_
 **Valley Primary Academy** (September 2019 -July 2020)  
 _Class Teacher Year 6_
 - Teaching a full range of subjects, including Maths, Science and Computing to 30 children full time.
-- Preparing them for the SATS and for their transition to High School.
-- As the only year 6 teacher in this school I had to plan and resource the curriculum and many lessons myself.
-- 72% of my class achieved the national standard in Reading, Writing and Maths, up from 58% of that class in year 5.
+- Preparing them for the SATS and for their transition to Secondary School.
 - Running a computing club after school, teaching the fundamentals of programming and developing little games with the students.
 
 **Air Balloon Hill Primary School** (April 2017 - October 2018)  
 _Class Teacher Year 4_
-- Planning for, teaching and managing a class of 29 children full time. 
 - Working closely with colleagues in productive meetings to plan and resource lessons and discuss barriers to learning.
-- Daily use of Microsoft Excel for assessment and tracking children’s progress.
-- Responsibility for raising the attainment in spelling at the whole school (850 students): organising a monthly “Spelling Bee” competition across the school and establishing a new system for class teachers to record and monitor the progress in spellings in their classes.
+- Spelling Co-ordinator for whole school (850 students): organising a monthly “Spelling Bee” competition and establishing a new system for class teachers to record and monitor progress.
 
 **Cypress Primary School** (September 2014 - December 2016)  
 _Class Teacher Year 3_
-- Teaching, planning for and managing 30 children full time.
-- Subject lead in Music: Supporting colleagues with the delivery of the music curriculum in their year groups by providing staff-training and resources.
-- Planning and organising school trips for the year group: to see musicals, the zoo and classical concerts in central London, as well as to local parks.
-- Organisation and delivery of “immersion days”, in which the children experienced one topic in depth with workshops on different aspects.
+- Subject lead in Music: Providing staff-training and resources.
+- Planning and organising school trips for the year group.
 
 **Future Education** (January 2014 - April 2014)  
 _Supply Teacher_
 - Daily supply teacher in different schools across South London.
 - Quickly adapting to new environments, picking up essential information and connecting with new colleagues.
-- Teaching lessons with only a few minutes’ notice and preparation and thereby developing a fantastic ability to think on my feet.
-- Managing classes with very challenging behaviour successfully.
+
+**Mulbarton Junior School** (September 2012 - August 2013)
+_ClassTeacher Year 4_
+- Managing and teaching a class of 30 children full time.
+- Completing my induction year.
 
 ## Skills
 
@@ -92,7 +90,7 @@ I am a brilliant team player due to my empathy and patience.
 - I learned Ruby, JavaScript, Node.js, Express.js, Sinatra, PostgreSQL, MongoDB.
 
 #### Harvard University Online (2021)
-- CS50 – Introduction to Computer Science, 10 weeks online course including a final project (times table game)
+- CS50 – Introduction to Computer Science, 10 weeks online course including a final project (Times Table Coach)
 - Learning essential programming principles about memory, data structures and computing speed, completing a number of projects with C, Python, SQL, HTML, CSS and JavaScript.
 - Codecademy courses completed: Learning Python 3, Learning Ruby
 
@@ -111,5 +109,5 @@ I am a brilliant team player due to my empathy and patience.
 
 ## Hobbies
 
-- Orienteering: I am brilliant at reading detailed maps while running through woods.
-- Singing: I love immersing myself into the power of music when playing piano and singing.
+- Orienteering: I enjoy reading detailed maps while running through woods.
+- Languages: I like learning languages and speak German (native), French (semi-fluent) and Italian (beginner).
