@@ -1,6 +1,6 @@
 ## Jonas Diete
 
-Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - the challenge of getting better at something is so beautiful.
+Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
 
 ## My Projects
 
@@ -8,7 +8,7 @@ Software Developer with background in teaching. I love building software - it's 
 | ---------------------------- | ----------------- | ----------------- |
 | [**Wakify**](https://github.com/jonas-diete/wakify)                  | Team project – developing a mobile app that matches your mood to a playlist. | React Native, Node.js, Cypress |
 | [**Times Table Coach**](https://ttcoach.herokuapp.com)        | Solo project - a webapp to teach children multiplication tables. | Python, Flask, Javascript |
-| [**Acebook**](https://acebook-monsters-inc.herokuapp.com/)                  | Team project developing a social media platform. | Node.js, Express.js, MongoDB, Jest, Cypress |
+| [**Acebook**](https://monsters-inc-acebook.herokuapp.com/)                  | Team project developing a social media platform. | Node.js, Express.js, MongoDB, Jest, Cypress |
 
 ## Work Experience
 
@@ -59,34 +59,25 @@ _ClassTeacher Year 4_
 
 #### Teamwork 
 
-I am a brilliant team player due to my empathy and patience.
-
+- I am a brilliant team player due to my empathy and patience.
 - Working with Teaching Assistants - effective daily meetings before the children arrived and via little a little notebook. Deciding how to divide up the work, who supports which group, who leads which activity. Supporting each other during challenging situations, taking over each others work
 - Planning and providing resources together as a year group team at Air Balloon Hill Primary School
-- Lots of pairing and teamwork projects during the Makers course
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Problem-Solving
-- When presented with a practical or programmatical problems, I am always excited to find a way to solve them: when you think hard enough of all possibilities I always can come up with a solution
-- When developing my TimesTableCoach, my online times table game, I had to solve various problems
-- This often involves taking a break and doing something entirely different to come back and look at the problem with fresh eyes
-- As a class teacher I often had to solve practical problems like how to effectively seat the children, so they don't destract each other, but still have someone they can work well with
-
+- Lots of pairing and teamwork projects during the Makers course.
 
 #### Learning
+
 - I am an enthusiastic and efficient learner
-- recently I have learned lots of new programming skills
-- I know how to find good resources for learning
+- I have learned many new programming skills recently and can pick up new coding languages quickly
+- I can find good learning resources and look up explanations independently to get a deeper understanding
 - Last year I learned Italian and then travelled to Italy to improve it
-- The year before I learned driving and passed my test
 
 ## Education
 
 #### Makers Academy (July - November 2022)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD, high quality code that is - reliable, - easy to read, - easy to change
-- Agile Team Work Processes, during our engineering projects
-- I learned Ruby, JavaScript, Node.js, Express.js, Sinatra, PostgreSQL, MongoDB.
+- 4 months full-time immersive Coding Bootcamp
+- Learning TDD, OOP, effective Debugging, SoC, SRP, DRY
+- Working on several team engineering projects using Agile processes
+- Daily pair-programming with different partners
 
 #### Harvard University Online (2021)
 - CS50 – Introduction to Computer Science, 10 weeks online course including a final project (Times Table Coach)
@@ -111,5 +102,5 @@ I am a brilliant team player due to my empathy and patience.
 
 ## Hobbies
 
-- Orienteering: I enjoy reading detailed maps while running through woods.
+- Orienteering: I enjoy reading detailed maps while running through the woods.
 - Languages: I like learning languages and speak German (native), French (semi-fluent) and Italian (beginner).
