@@ -4,11 +4,12 @@ Software Developer with background in teaching. I love building software - it's 
 
 ## My Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Wakify**](https://github.com/jonas-diete/wakify)                  | Team project – developing a mobile app that matches your mood to a playlist. | React Native, Node.js, Cypress |
-| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | Solo project - a webapp to teach children multiplication tables. | Python, Flask, Javascript |
-| [**Acebook**](https://monsters-inc-acebook.herokuapp.com/)                  | Team project developing a social media platform. | Node.js, Express.js, MongoDB, Jest, Cypress |
+| Name                         | Description       | Live Link | Tech/tools        |
+| ---------------------------- | ----------------- | ----------| ----------------- |
+| [**Acebook**](https://monsters-inc-acebook.herokuapp.com/)                  | A team project developing a monster themed social media platform | [**Acebook**](https://github.com/GuillerminaLorenzo/acebook-monsters-inc)  | Node.js, Express.js, MongoDB, Jest, Cypress |
+| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | My passion project: a game to teach children the multiplication tables | [**Times Table Coach**](https://ttcoach.herokuapp.com) | Python, Flask, Javascript, HTML, CSS |
+| [**Wakify**](https://github.com/jonas-diete/wakify)                  | My final Makers Project - A mobile app that matches your mood to a playlist | Coming Soon | React Native, Node.js, Cypress |
+
 
 ## Work Experience
 
