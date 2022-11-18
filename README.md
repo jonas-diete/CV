@@ -106,5 +106,5 @@ _Supply Teacher_
 
 ## Hobbies
 
-- Orienteering: I enjoy reading detailed maps while running through the woods.
-- Languages: I like learning languages and speak German (native), French (semi-fluent) and Italian (beginner).
+- Orienteering: Reading detailed maps while running through the woods helps me filter information, trains my memory and forces me to make rapid decisions under pressure.
+- Languages: I like learning them and speak German (native), French (semi-fluent) and Italian (beginner). Learning rules and structures works just like with coding languages.
