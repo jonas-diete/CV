@@ -4,15 +4,19 @@
 
 Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
 
-Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining.  I just graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.
+Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining.  I just graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.   
+
+I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
 ## My Projects
 
 | Name                         | Description       | Live Link | Tech/tools        |
 | ---------------------------- | ----------------- | ----------| ----------------- |
-| [**Acebook**](https://github.com/jonas-diete/acebook-monsters-inc)                  | A team project developing a monster themed social media platform | [**Post on our wall**](https://monsters-inc-acebook.herokuapp.com/)  | Node.js, Express.js, MongoDB, Jest, Cypress |
-| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | My passion project: a game to teach children the multiplication tables | [**Test your times tables**](https://ttcoach.herokuapp.com) | Python, Flask, Javascript, HTML, CSS |
+| [**Acebook**](https://github.com/jonas-diete/acebook-monsters-inc)                  | A team project developing a monster themed social media platform | [Post on our wall](https://monsters-inc-acebook.herokuapp.com/)  | Node.js, Express.js, MongoDB, Jest, Cypress |
+| [**Times Table Coach**](https://ttcoach.herokuapp.com)        | My passion project: a game to teach children the multiplication tables | [Test your times tables](https://ttcoach.herokuapp.com) | Python, Flask, Javascript, HTML, CSS |
 | [**Wakify**](https://github.com/jonas-diete/wakify)                  | My final Makers Project - A mobile app that matches your mood to a playlist | Coming Soon | React Native, Node.js, Cypress |
+| [**Bank Tech Test**](https://github.com/jonas-diete/bank_tech_test) | A small program to practise writing quality code | Install from [GitHub](https://github.com/jonas-diete/bank_tech_test) | Node.js, Jest |
+| [**Bowling Challenge**](https://github.com/jonas-diete/bowling-challenge) | Calculating the scores for ten-pin bowling | Install from [GitHub](https://github.com/jonas-diete/bowling-challenge) | Node.js, Jest |
 
 ## Education
 
