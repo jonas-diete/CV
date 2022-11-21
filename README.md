@@ -1,6 +1,6 @@
 ### [My Projects](#my-projects) | [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Hobbies](#hobbies)  
 
-## Jonas Diete
+# Jonas Diete
 
 Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
 
