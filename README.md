@@ -95,7 +95,7 @@ _Supply Teacher_
 - Leading the Easter Performance at Cypress Primary School -  planning in detail the three classes' acting, singing and backdrop production, then leading the rehearsals for two weeks. This resulted in a memorable performance that was quoted by many parents as the best ever school show
 - When working with other students on the engineering project Acebook during the Makers bootcamp, I drew out the database tables, including all the data we might need, the different routes our project will contain and what each of them looks like. We then kept on referring and adding to this design throughout the project to help maintain consistency amongst the team
 
-#### :older_woman::man::man_with_turban::speech_balloon: Teamwork 
+#### :older_woman::man::man_with_turban: Teamwork 
 
 - I am a brilliant team player due to my empathy and patience.
 - Working with Teaching Assistants - effective daily meetings before the children arrived and via little a little notebook. Deciding how to divide up the work, who supports which group, who leads which activity. Supporting each other during challenging situations, taking over each others work
