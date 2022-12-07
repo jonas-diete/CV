@@ -2,7 +2,7 @@
 
 # Jonas Diete
 
-Hi :wave:, I am a Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
+Hi, I am a Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
 
 Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining.  I just graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.   
 
@@ -49,7 +49,7 @@ I really enjoy problem solving and working in the tech industry would mean I get
 - Main subjects: Art, English, Computing, where I learned network programming with Delphi. 
 - This sparked my first interest in Coding and improved my logical thinking.
 
-## Work Experience
+## :briefcase: Work Experience
 
 **Online German Tutor** (September 2020 - July 2022)  
 _German Tutor and Programming_
@@ -87,7 +87,7 @@ _Supply Teacher_
 
 ## Skills
 
-#### Detailed Planning to ensure consistency and save time
+#### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
 - Planning in detail for what can happen during a day/week or term as a teacher
 - Planning as a programmer for a project - deciding on which classes to use and how they work together, drawing diagrams, deciding naming and main methods
@@ -95,22 +95,22 @@ _Supply Teacher_
 - Leading the Easter Performance at Cypress Primary School -  planning in detail the three classes' acting, singing and backdrop production, then leading the rehearsals for two weeks. This resulted in a memorable performance that was quoted by many parents as the best ever school show
 - When working with other students on the engineering project Acebook during the Makers bootcamp, I drew out the database tables, including all the data we might need, the different routes our project will contain and what each of them looks like. We then kept on referring and adding to this design throughout the project to help maintain consistency amongst the team
 
-#### Teamwork 
+#### :older_woman::man::man_with_turban::speech_balloon: Teamwork 
 
 - I am a brilliant team player due to my empathy and patience.
 - Working with Teaching Assistants - effective daily meetings before the children arrived and via little a little notebook. Deciding how to divide up the work, who supports which group, who leads which activity. Supporting each other during challenging situations, taking over each others work
 - Planning and providing resources together as a year group team at Air Balloon Hill Primary School
 - Lots of pairing and teamwork projects during the Makers course.
 
-#### Learning
+#### :rocket: Learning
 
 - I am an enthusiastic and efficient learner
 - I have learned many new programming skills recently and can pick up new coding languages quickly
 - I can find good learning resources and look up explanations independently to get a deeper understanding
 - Last year I learned Italian and then travelled to Italy to improve it
 
-## Hobbies
+## :green_heart: Hobbies
 
-**Orienteering:** Reading detailed maps while running through the woods helps me filter information, trains my memory and forces me to make rapid decisions under pressure.   
+**:runing: Orienteering:** Reading detailed maps while running through the woods helps me filter information, trains my memory and forces me to make rapid decisions under pressure.   
 
-**Languages:** I like learning them and speak German (native), French (semi-fluent) and Italian (beginner). Learning rules and structures works just like with coding languages.
+**:speech_balloon: Languages:** I like learning them and speak :de: German (native), :fr: French (semi-fluent) and :it: Italian (beginner). Learning rules and structures works just like with coding languages.
