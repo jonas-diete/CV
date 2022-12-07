@@ -1,4 +1,4 @@
-### [My Projects](#my-projects) | [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Hobbies](#hobbies)  
+### [My Projects](#clipboard-my-projects) | [Education](#mortar_board-education) | [Work Experience](#briefcase-work-experience) | [Skills](#sparkles-skills) | [Hobbies](#green_heart-hobbies)  
 
 # Jonas Diete
 
