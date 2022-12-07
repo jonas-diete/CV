@@ -85,7 +85,7 @@ _Supply Teacher_
 - Thinking on my feet when picking up other people’s lesson plans and solving problems rapidly
 
 
-## Skills
+## :sparkles: Skills
 
 #### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
@@ -111,6 +111,6 @@ _Supply Teacher_
 
 ## :green_heart: Hobbies
 
-**:runing: Orienteering:** Reading detailed maps while running through the woods helps me filter information, trains my memory and forces me to make rapid decisions under pressure.   
+**:running: Orienteering:** Reading detailed maps while running through the woods helps me filter information, trains my memory and forces me to make rapid decisions under pressure.   
 
 **:speech_balloon: Languages:** I like learning them and speak :de: German (native), :fr: French (semi-fluent) and :it: Italian (beginner). Learning rules and structures works just like with coding languages.
