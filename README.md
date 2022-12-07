@@ -8,7 +8,7 @@ Whilst working at my last school, I rediscovered my passion for coding and spent
 
 I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
-## My Projects
+## :clipboard: My Projects
 
 | Name                         | Description       | Live Link | Tech/tools        |
 | ---------------------------- | ----------------- | ----------| ----------------- |
@@ -18,7 +18,7 @@ I really enjoy problem solving and working in the tech industry would mean I get
 | [**Bank Tech Test**](https://github.com/jonas-diete/bank_tech_test) | A small program to practise writing quality code | Install from [GitHub](https://github.com/jonas-diete/bank_tech_test) | Node.js, Jest |
 | [**Bowling Challenge**](https://github.com/jonas-diete/bowling-challenge) | Calculating the scores for ten-pin bowling | Install from [GitHub](https://github.com/jonas-diete/bowling-challenge) | Node.js, Jest |
 
-## Education
+## :mortar_board: Education
 
 #### Makers Academy (July - November 2022)
 - 4 months full-time immersive Coding Bootcamp
