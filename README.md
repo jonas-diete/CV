@@ -26,24 +26,24 @@ I really enjoy problem solving and working in the tech industry would mean I get
 - Working on several team engineering projects using Agile processes
 - Daily pair-programming with different partners
 
-#### Harvard University Online (2021)
+#### [Harvard University Online](https://cs50.harvard.edu/x/2023/) (2021)
 - CS50 – Introduction to Computer Science, 10 weeks online course including a final project (Times Table Coach)
 - Learning essential programming principles about memory, data structures and computing speed, completing a number of projects with C, Python, SQL, HTML, CSS and JavaScript.
 
-#### Codecademy (2021-2022)
+#### [Codecademy](https://www.codecademy.com/) (2021-2022)
 - Course: Learning Python 3 (30 hours)
 - Course: Learning Ruby (20 hours)
 
-#### University of East Anglia (2011-2012)
+#### [University of East Anglia](https://www.uea.ac.uk/) (2011-2012)
 - Post Graduate Certificate in Education (PGCE) with Qualified Teaching Standard (QTS). Specialism in teaching modern foreign languages. 
 - Here I developed my excellent communication skills.
 
-#### Freie Universität Berlin, Germany (2006-2010)
+#### [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), Germany (2006-2010)
 - Bachelor of Arts in History of Arts
 - Grade: 1.4 (="first")
 - Helped me learning how to research, find information and develop projects independently.
 
-#### Robert Koch Oberschule, Berlin (1998-2005)
+#### [Robert Koch Gymnasium](https://www.robert-koch-gymnasium.berlin/), Berlin (1998-2005)
 - Abitur (A-Level equivalent)
 - Overall final mark: 2.1
 - Main subjects: Art, English, Computing, where I learned network programming with Delphi. 
