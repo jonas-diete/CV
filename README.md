@@ -20,7 +20,7 @@ I really enjoy problem solving and working in the tech industry would mean I get
 
 ## :mortar_board: Education
 
-#### Makers Academy (July - November 2022)
+#### [Makers Academy](https://makers.tech/) (July - November 2022)
 - 4 months full-time immersive Coding Bootcamp
 - Learning TDD, OOP, effective Debugging, SoC, SRP, DRY
 - Working on several team engineering projects using Agile processes
