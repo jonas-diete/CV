@@ -2,7 +2,7 @@
 
 # Jonas Diete
 
-Hi, I am a Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
+Hi :wave: I am a Software Developer with background in teaching. I love building software - it's truly "creative" and feels amazing to make something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful. :hibiscus:
 
 Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining.  I just graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.   
 
