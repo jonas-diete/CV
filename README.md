@@ -90,8 +90,8 @@ _Supply Teacher_
 #### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
 When working on Makers team projects:
-- I drew out the database tables, including all the data we might need, the different routes our project will contain and what each of them looks like.
-- We then kept on referring and adding to this design throughout the project to help maintain consistency amongst the team.
+- Drawing database tables, columns and datatypes, how they are linked, the different routes on Excalidraw
+- Continuously referring and adding to this design throughout the project to help maintain consistency amongst the team.
 - Adapting plans when necessary to accomodate unforseen problems.
 
 As a class teacher
