@@ -105,7 +105,6 @@ As a class teacher
 - I completed multiple team engineering projects using Agile processes within the Makers bootcamp. 
 - Strong communication skills and empathy often helped me - aquired from years working as a school teacher.
 - I gathered lots of experience with version control – using git at all times.
-
 - As a class teacher I was regularly working in a team within my year-group.
 - Planning lesson progression, sharing best ideas, discussing childrens progress and providing resources for each other.
 
