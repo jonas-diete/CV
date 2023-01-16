@@ -89,25 +89,33 @@ _Supply Teacher_
 
 #### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
-- Planning in detail for what can happen during a day/week or term as a teacher
-- Planning as a programmer for a project - deciding on which classes to use and how they work together, drawing diagrams, deciding naming and main methods
-- Adapting plans when necessary to accomodate unforseen problems
-- Leading the Easter Performance at Cypress Primary School -  planning in detail the three classes' acting, singing and backdrop production, then leading the rehearsals for two weeks. This resulted in a memorable performance that was quoted by many parents as the best ever school show
-- When working with other students on the engineering project Acebook during the Makers bootcamp, I drew out the database tables, including all the data we might need, the different routes our project will contain and what each of them looks like. We then kept on referring and adding to this design throughout the project to help maintain consistency amongst the team
+When working on Makers team projects:
+- I drew out the database tables, including all the data we might need, the different routes our project will contain and what each of them looks like.
+- We then kept on referring and adding to this design throughout the project to help maintain consistency amongst the team.
+- Adapting plans when necessary to accomodate unforseen problems.
+
+As a class teacher
+- Planning for lessons, activities, support, resources, timings on a daily basis.
+- Writing Long-term plans to work towards end-of-year goals, exams, performances.
 
 #### :older_woman::man::man_with_turban: Teamwork 
 
-- I am a brilliant team player due to my empathy and patience.
-- Working with Teaching Assistants - effective daily meetings before the children arrived and via little a little notebook. Deciding how to divide up the work, who supports which group, who leads which activity. Supporting each other during challenging situations, taking over each others work
-- Planning and providing resources together as a year group team at Air Balloon Hill Primary School
-- Lots of pairing and teamwork projects during the Makers course.
+- I enjoy working in collaboration with other developers, discussing structure, strategies and direction for a project.
+- Working in pairs to implement features.
+- I completed multiple team engineering projects using Agile processes within the Makers bootcamp. 
+- Strong communication skills and empathy often helped me - aquired from years working as a school teacher.
+- I gathered lots of experience with version control – using git at all times.
+
+- As a class teacher I was regularly working in a team within my year-group.
+- Planning lesson progression, sharing best ideas, discussing childrens progress and providing resources for each other.
 
 #### :rocket: Learning
 
-- I am an enthusiastic and efficient learner
-- I have learned many new programming skills recently and can pick up new coding languages quickly
-- I can find good learning resources and look up explanations independently to get a deeper understanding
-- Last year I learned Italian and then travelled to Italy to improve it
+- I am a passionate and effective learner.
+- During the last Makers project, I had to learn React Native from scratch and with my team managed to create a working app in just two weeks. 
+- This involved lots of independent learning, researching, reading documentations and thorough debugging.
+- Before Makers, I taught myself Python and JavaScript by following online tutorials and introduction videos. 
+- I enjoy reading other people's code, picking out elements to re-use myself, adapting them and learning through this process.
 
 ## :green_heart: Hobbies
 
