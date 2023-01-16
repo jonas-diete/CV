@@ -87,18 +87,18 @@ _Supply Teacher_
 
 ## :sparkles: Skills
 
-#### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
+### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
 When working on Makers team projects:
 - Drawing database tables, columns and datatypes, how they are linked, the different routes on Excalidraw
 - Continuously referring and adding to this design throughout the project to help maintain consistency amongst the team.
 - Adapting plans when necessary to accomodate unforseen problems.
 
-As a class teacher
+As a class teacher:
 - Planning for lessons, activities, support, resources, timings on a daily basis.
 - Writing Long-term plans to work towards end-of-year goals, exams, performances.
 
-#### :older_woman::man::man_with_turban: Teamwork 
+### :older_woman::man::man_with_turban: Teamwork 
 
 - I enjoy working in collaboration with other developers, discussing structure, strategies and direction for a project.
 - Working in pairs to implement features.
@@ -108,7 +108,7 @@ As a class teacher
 - As a class teacher I was regularly working in a team within my year-group.
 - Planning lesson progression, sharing best ideas, discussing childrens progress and providing resources for each other.
 
-#### :rocket: Learning
+### :rocket: Learning
 
 - I am a passionate and effective learner.
 - During the last Makers project, I had to learn React Native from scratch and with my team managed to create a working app in just two weeks. 
