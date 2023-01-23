@@ -89,14 +89,10 @@ _Supply Teacher_
 
 ### :pencil2: :triangular_ruler: Detailed Planning to ensure consistency and save time
 
-When working on Makers team projects:
-- Drawing database tables, columns and datatypes, how they are linked, the different routes on Excalidraw
-- Continuously referring and adding to this design throughout the project to help maintain consistency amongst the team.
-- Adapting plans when necessary to accomodate unforseen problems.
+When working on a Makers team project, developing a social media platform, I created a design document: I drew database tables, columns and datatypes, how they are linked, the different routes. As a team, we then continuously referred and added to this design throughout the project to help maintain consistency amongst the team and ensure everyone knows how the different parts fit together. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
 
-As a class teacher:
-- Planning for lessons, activities, support, resources, timings on a daily basis.
-- Writing Long-term plans to work towards end-of-year goals, exams, performances.
+When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. I annotated this often with notes throughout the day to inform my planning for the next few days. This enabled me to keep a detailed overview of all the different tasks and ensured my lessons had a great structure.
+I also wrote effective long-term plans with end-of-year goals, exams and performances to ensure I would consistently work towards deadlines and track the progress in my daily teaching.
 
 ### :older_woman::man::man_with_turban: Teamwork 
 
