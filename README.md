@@ -93,7 +93,7 @@ I enjoy working in collaboration with other developers, discussing structure, st
 
 I also gathered lots of experience with version control – using git at all times to ensure people can efficiently work on different aspects of a project at the same time. I used github to review my teammates' code and make suggestions for changes.
 
-As a class teacher in Bristol I was regularly working in a team within my year-group. I planned the lesson progression with my colleagues, sharing best ideas, discussing childrens progress and providing resources for each other.
+As a class teacher in Bristol I was regularly working in a team within my year-group. I planned the lesson progression with my colleagues, sharing best ideas, discussing childrens progress and providing resources for each other. This improved everyone's work tremendously and saved us lots of time.
 
 ### :pencil2: :triangular_ruler: Detailed Planning
 
