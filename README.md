@@ -89,9 +89,9 @@ _Supply Teacher_
 
 ### :pencil2: :triangular_ruler: Detailed Planning
 
-I enjoy planning projects thoroughly to ensure consistency and save time. When I started working on a Makers team project developing a social media platform, I used the first day to create a comprehensive design document: I drew database tables, columns and datatypes, how they are linked, the different routes. As a team, we then continuously referred and added to this design throughout the project to help maintain consistency amongst the team and ensure everyone knew how the different parts fit together. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
+I enjoy planning projects thoroughly. When I started working on a Makers team project developing a social media platform, I used the first day to create a comprehensive design document: I drew database tables, columns and datatypes, how they are linked and the different routes. As a team, we then continuously referred and added to this design throughout the project. This helped us to maintain consistency amongst the team and saved time later on. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
 
-When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. I annotated this often with notes throughout the day to inform my planning for the next few days. This enabled me to keep a detailed overview of all the different tasks and ensured my lessons had a great structure.
+When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. I annotated this often with notes throughout the day to inform my planning for the next few days. This enabled me to keep a great overview of all the different tasks and ensured my lessons had a great structure.
 I also wrote effective long-term plans with end-of-year goals, exams and performances to ensure I would consistently work towards deadlines and track the progress in my daily teaching.
 
 ### :older_woman::man::man_with_turban: Teamwork 
@@ -105,7 +105,7 @@ As a class teacher in Bristol I was regularly working in a team within my year-g
 
 I am a passionate and effective learner. During the last Makers project, I had to learn React Native from scratch and with my team managed to create a working app in just two weeks. This involved lots of independent learning, researching, reading documentations and thorough debugging.  
 
-Before Makers, I taught myself Python and JavaScript by following online tutorials and introduction videos. I independently developed an Flask app that teaches children multiplication tables. In order to succeed, I was often reading other people's code, picking out elements to re-use myself, adapting them and learning lots through this process.
+Before Makers, I taught myself Python and JavaScript by following online tutorials and introduction videos. I independently developed an Flask app that teaches children multiplication tables. In order to succeed, I was often reading other people's code, picking out elements to re-use myself, adapting them and learning lots during this process.
 
 ## :green_heart: Hobbies
 
