@@ -96,13 +96,10 @@ I also wrote effective long-term plans with end-of-year goals, exams and perform
 
 ### :older_woman::man::man_with_turban: Teamwork 
 
-- I enjoy working in collaboration with other developers, discussing structure, strategies and direction for a project.
-- Working in pairs to implement features.
-- I completed multiple team engineering projects using Agile processes within the Makers bootcamp. 
-- Strong communication skills and empathy often helped me - aquired from years working as a school teacher.
-- I gathered lots of experience with version control – using git at all times.
-- As a class teacher I was regularly working in a team within my year-group.
-- Planning lesson progression, sharing best ideas, discussing childrens progress and providing resources for each other.
+I enjoy working in collaboration with other developers, discussing structure, strategies and direction for a project. For example, when working on a team project with Makers we developed a ReactNative app. Here, my strong communication skills and emotional intelligence - aquired from years working as a school teacher - helped me to collaborate effectively with different coding partners every day. I was able to present my ideas to the group with clarity and provided effective feedback whilst at the same time learning from feedback I received.
+I also gathered lots of experience with version control – using git at all times to ensure people can efficiently work on different aspects of a project at the same time. I used github to review my teammates' code and make suggestions for changes.
+
+As a class teacher in Bristol I was regularly working in a team within my year-group. I planned the lesson progression with my colleagues, sharing best ideas, discussing childrens progress and providing resources for each other.
 
 ### :rocket: Learning
 
