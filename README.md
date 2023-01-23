@@ -87,19 +87,19 @@ _Supply Teacher_
 
 ## :sparkles: Skills
 
-### :pencil2: :triangular_ruler: Detailed Planning
-
-I enjoy planning projects thoroughly. When I started working on a Makers team project developing a social media platform, I used the first day to create a comprehensive design document: I drew database tables, columns and datatypes, how they are linked and the different routes. As a team, we then continuously referred and added to this design throughout the project. This helped us to maintain consistency amongst the team and saved time later on. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
-
-When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. I annotated this often with notes throughout the day to inform my planning for the next few days. This enabled me to keep a great overview of all the different tasks and ensured my lessons had a great structure.
-I also wrote effective long-term plans with end-of-year goals, exams and performances to ensure I would consistently work towards deadlines and track the progress in my daily teaching.
-
 ### :older_woman::man::man_with_turban: Teamwork 
 
 I enjoy working in collaboration with other developers, discussing structure, strategies and direction for a project. For example, when working on a team project with Makers we developed a ReactNative app. Here, my strong communication skills and emotional intelligence - aquired from years working as a school teacher - helped me to collaborate effectively with different coding partners every day. I was able to present my ideas to the group with clarity and provided effective feedback whilst at the same time learning from feedback I received.
 I also gathered lots of experience with version control – using git at all times to ensure people can efficiently work on different aspects of a project at the same time. I used github to review my teammates' code and make suggestions for changes.
 
 As a class teacher in Bristol I was regularly working in a team within my year-group. I planned the lesson progression with my colleagues, sharing best ideas, discussing childrens progress and providing resources for each other.
+
+### :pencil2: :triangular_ruler: Detailed Planning
+
+I always plan my projects thoroughly. When I started working on a Makers team project developing a social media platform, I used the first day to create a comprehensive design document: I drew database tables, columns and datatypes, how they are linked and the different routes. As a team, we then continuously referred and added to this design throughout the project. This helped us to maintain consistency amongst the team and saved time later on. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
+
+When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. I annotated this often with notes throughout the day to inform my planning for the next few days. This enabled me to keep a great overview of all the different tasks and ensured my lessons had a great structure.
+I also wrote effective long-term plans with end-of-year goals, exams and performances to ensure I would consistently work towards deadlines and track the progress in my daily teaching.
 
 ### :rocket: Learning
 
