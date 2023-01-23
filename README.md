@@ -112,7 +112,7 @@ As a class teacher:
 
 I am a passionate and effective learner. During the last Makers project, I had to learn React Native from scratch and with my team managed to create a working app in just two weeks. This involved lots of independent learning, researching, reading documentations and thorough debugging.  
 
-Before Makers, I taught myself Python and JavaScript by following online tutorials and introduction videos. I independently developed an Flask app that teaches children multiplication tables. In order to succeed, I often was reading other people's code, picking out elements to re-use myself, adapting them and learning lots through this process.
+Before Makers, I taught myself Python and JavaScript by following online tutorials and introduction videos. I independently developed an Flask app that teaches children multiplication tables. In order to succeed, I was often reading other people's code, picking out elements to re-use myself, adapting them and learning lots through this process.
 
 ## :green_heart: Hobbies
 
