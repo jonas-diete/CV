@@ -97,7 +97,7 @@ As a class teacher in Bristol I was regularly working in a team within my year-g
 
 I always plan my projects thoroughly. When I started working on a Makers team project developing a social media platform, I used the first day to create a comprehensive design document: I drew database tables, columns and datatypes, how they are linked and the different routes. As a team, we then continuously referred and added to this design throughout the project. This helped us to maintain consistency amongst the team and saved time later on. I adapted the plans when necessary to accomodate unforseen problems and continued planning my code in detail in later programming projects.
 
-When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. This enabled me to keep a great overview of all the different tasks and ensured my lessons had a great structure.
+When working as a class teacher for Cypress Primary School in London, I was planning for lessons, activities, support, timings on a daily basis, using a detailed diary. This enabled me to keep a effective overview of all the different tasks and ensured my lessons had a great structure.
 I also wrote effective long-term plans with end-of-year goals, exams and performances to ensure I would work consistently towards deadlines and track the progress in my daily teaching.
 
 ### :rocket: Learning
